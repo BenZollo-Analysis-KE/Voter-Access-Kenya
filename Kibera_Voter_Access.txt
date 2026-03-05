@@ -1,0 +1,4 @@
+Target Area: Kibera, Nairobi (Sarang'ombe & Lindi Wards)
+2019 Census Density: ~50,000+ residents per sq km.
+The Crisis: Extreme density leads to 8+ hour wait times at stations like Olympic Primary School.
+Research Goal: Use SQL to compare "Distance to Station" vs. "Time in Queue
