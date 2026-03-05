@@ -1,6 +1,6 @@
-Station_Name, Ward, Est_Voters
-Olympic Primary School, Sarang'ombe, 15400
-Old Kibera Primary, Lindi, 12200
-Kibera Primary School, Lindi, 9800
-Ayany Primary School, Sarang'ombe, 8500
-Mashimoni Squatters, Lindi, 7200
+ID, Station_Code, Station_Name, Ward, Est_Voters
+1, 001, Olympic Primary School, Sarang'ombe, 15400
+2, 002, Old Kibera Primary, Lindi, 12200
+3, 003, Kibera Primary School, Lindi, 9800
+4, 004, Ayany Primary School, Sarang'ombe, 8500
+5, 005, Mashimoni Squatters, Lindi, 7200
